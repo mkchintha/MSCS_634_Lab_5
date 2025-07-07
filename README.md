@@ -75,5 +75,5 @@ Hierarchical Clustering and DBSCAN both offer valuable insights into the underly
 ---
 
 ## Repository Contents  
-- `lab5_clustering_wine.ipynb` – Jupyter Notebook containing full implementation, visualizations, and analysis.  
+- `Lab5_Clustering_Wine.ipynb` – Jupyter Notebook containing full implementation, visualizations, and analysis.  
 - `README.md` – Documentation outlining the objective, methodology, and results of the lab.
